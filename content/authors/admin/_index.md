@@ -1,73 +1,40 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Fang Liu
+role: Assistant Professor of Chemistry
+avatar_filename: avatar.jpg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: Stanford University
+    url: https://chemistry.stanford.edu/
+superuser: true
+authors:
+  - admin
+bio: My research interests include two dimensional materials, spectroscopy and
+  dynamics.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - "Hobbies: baking and and planting. (But not very good at them)"
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:fliu10@stanford.edu
+  - link: https://scholar.google.com/citations?user=odYWw4EAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - institution: Columbia University
+      course: Postdoctoral fellow
+      year: 2016-2020
+    - course: Postdoctoral Researcher
+      institution: University of Pennsylvania
+      year: 2015-2016
+    - course: Ph.D. Chemistry
+      institution: University of Pennsylvania
+      year: 2015
+    - course: B.S. Chemistry
+      institution: Peking University
+      year: 2010
+email: fliu10@stanford.edu
 user_groups:
-- Researchers
+  - Researchers
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Fang Liu is an assistant professor of chemistry at Stanford University. Her reserach is focused on the light induced dynamics of solid low dimensional materials and construction of low dimensional artificial structures. Prior to her current position, she was a DOE Office of Energy Efficiency and Renewable Energy (EERE) postdoctoral fellow in the group of Prof. Xiaoyang Zhu at Columbia University.  Her postdoctoral research focused on using femtosecond extreme UV in probing time and angle resolved photoemission spectroscopy of 2D materials.  Prior to working in Columbia, she worked under the direction of Prof. Marsha I Lester at University of Pennsylvania. She received her Ph.D. in 2015 and worked as a postdoc in the same group in 2016.  At UPenn, she used time resolved spectroscopic techniques to study spectroscopy and photochemistry of Criegee intermediates.  She received her B.S. in chemistry at Peking University in 2010. 
